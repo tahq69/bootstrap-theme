@@ -1,0 +1,31 @@
+{
+  "name": "crip-bootstrap-theme",
+  "version": "0.0.1",
+  "description": "CRIP bootstrap 4.1 theme",
+  "main": "src/styles.scss",
+  "dependencies": {
+    "bootstrap": "^4.1.0"
+  },
+  "devDependencies": {
+    "node-sass": "^4.9.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node-sass src/style.scss dist/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tahq69/bootstrap-theme.git"
+  },
+  "keywords": [
+    "bootstrap",
+    "theme",
+    "scss"
+  ],
+  "author": "Igors Krasjukovs <tahq69@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tahq69/bootstrap-theme/issues"
+  },
+  "homepage": "https://github.com/tahq69/bootstrap-theme#readme"
+}

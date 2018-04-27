@@ -1,2 +1,2 @@
 # bootstrap-theme
-CRIP bootstrap 4.0 theme source code repository.
+CRIP bootstrap 4.1 theme source code repository.
