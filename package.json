@@ -4,7 +4,7 @@
   "description": "CRIP bootstrap 4.1 theme",
   "main": "src/styles.scss",
   "dependencies": {
-    "bootstrap": "^4.1.0"
+    "bootstrap": "^4.1.1"
   },
   "devDependencies": {
     "node-sass": "^4.9.0"
